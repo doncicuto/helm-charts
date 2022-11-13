@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  glim:
+  - apiVersion: v2
+    appVersion: 0.5.0-alpha
+    created: "2022-11-13T18:17:04.400030606+01:00"
+    description: A Helm chart for Glim, a simple identity access management system
+      that speaks some LDAP
+    digest: 16cb79504aa720ee3020dc422a8ec31dd35c2be99c8cb964b47c39734a4a23e7
+    name: glim
+    type: application
+    urls:
+    - https://doncicuto.github.io/helm-charts/glim-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-11-13T18:17:04.397558603+01:00"
